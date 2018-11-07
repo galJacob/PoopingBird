@@ -15,7 +15,6 @@ namespace GameJam
         }
         public static async Task Start()
         {
-
             string name = "gal";
             var func = Edge.Func(@"
               var a =[];
